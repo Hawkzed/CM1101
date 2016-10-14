@@ -9,7 +9,7 @@ seems to be playing an old school text-based adventure
 game on his computer. There are corridors leading to the
 south and east. The exit is to the west.""",
 
-    "exits": {"south": "Admins", "east": "Tutor"}
+    "exits": {"south": "Admins", "east": "Tutor", "west": "Parking"}
 }
 
 room_admins = {
